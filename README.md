@@ -174,7 +174,7 @@ c)El valor de cada resistor
 
 ![image](https://user-images.githubusercontent.com/117959424/203890192-2f444701-a243-419f-aef6-f7f4390c2040.png)
 
-Capítulo 5: CIRCUITOS EN SERIE
+Capítulo 6: CIRCUITOS EN PARALELO
 
 *SECCIÓN 6–1 Resistores en paralelo
 
@@ -190,18 +190,105 @@ Capítulo 5: CIRCUITOS EN SERIE
 
 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6.
 
+![image](https://user-images.githubusercontent.com/117959424/203891075-2ed5da23-5999-4116-8e04-863776d6fd18.png)
+
+8. Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/117959424/203891282-474e319e-9404-4642-9b75-ca46d2b48612.png)
+
+*SECCIÓN 6–3 Ley de las corrientes de Kirchhoff 
+
+10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+![image](https://user-images.githubusercontent.com/117959424/203891379-5411146e-af81-43fb-8c60-d4650e5c2cff.png)
+
+12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+
+![image](https://user-images.githubusercontent.com/117959424/203891786-7c81657f-e995-43dd-80d2-2099d72d8236.png)
+
+*SECCIÓN 6–4 Resistencia total en paralelo
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
+
+![image](https://user-images.githubusercontent.com/117959424/203891936-edae6974-5ffb-4c89-be3b-088891b0c863.png)
+
+16. Calcule RT en cada uno de los circuitos de la figura 6-70. 
+
+![image](https://user-images.githubusercontent.com/117959424/203892086-9b0d9fd4-33e8-4d18-bebf-bb9dc0be2f39.png)
+
+18. Tres grupos, uno de cinco resistores de 470Ω, otro de diez resistores de 100Ω, y uno más de dos resistores de 100Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos.
+
+![image](https://user-images.githubusercontent.com/117959424/203892410-123c85e9-131a-4a04-a9d7-423fda2cd19f.png)
+
+20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+
+![image](https://user-images.githubusercontent.com/117959424/203892527-b46316d1-1598-4e5f-8d17-5ad51e3cfdb3.png)
+
+*SECCIÓN 6–5 Aplicación de la ley de Ohm
+
+22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![image](https://user-images.githubusercontent.com/117959424/203892764-be6b0714-8bcf-4868-a844-914a7702826e.png)
+
+24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+![image](https://user-images.githubusercontent.com/117959424/203892842-bb269be1-1a6b-4cb7-b3ac-59840c6b266f.png)
+
+26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![image](https://user-images.githubusercontent.com/117959424/203892972-39a1806e-2e34-4220-92e6-724f5810b649.png)
+
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/117959424/203893084-06628623-6fae-464e-9d59-27f054d36717.png)
+
+*SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+![image](https://user-images.githubusercontent.com/117959424/203893253-69028bbd-6867-478c-ba4f-1483f14c8a1b.png)
+
+*SECCIÓN 6–7 Divisores de corriente
+
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/117959424/203893416-0f619bef-2743-4a30-b30c-81a4494dd1c8.png)
+
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![image](https://user-images.githubusercontent.com/117959424/203893604-90025865-4fb5-45a6-8ef0-b27b5305d01d.png)
+
+*SECCIÓN 6–8 Potencia en circuitos en paralelo
+
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+![image](https://user-images.githubusercontent.com/117959424/203893801-f859efc0-cf79-42ab-94a6-9cf056606abf.png)
+
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+![image](https://user-images.githubusercontent.com/117959424/203893892-dde42a27-82eb-41d8-b3b3-84e93d2ae157.png)
+
+42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+(a) El número de resistores (b) El valor de cada resistor
+(c) La corriente en cada rama (d) El voltaje aplicado
+
+# 4.	VIDEO
 
 
 
+# 5.	CONCLUSIONES
 
+-)Se determino que las formulas aplican para resolver los circuitos en serie.
 
+-)El algebra aplica perfectamente para resolver tanto circuitos en serie como en paralelo.
 
+-)Descubrimos una variacion de la ley de Ohm al aplicar la formula para calcular la potencia.
 
+# 6.	Bibliografía
 
+Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación.
 
+# RUBRICA
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/116814096/200999683-fe53d616-5553-4761-bdf4-e15a280451cb.png)
